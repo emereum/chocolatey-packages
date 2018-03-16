@@ -9,7 +9,7 @@
     <projectUrl>https://postgresql.org/</projectUrl>
     <projectSourceUrl>https://github.com/postgres/postgres</projectSourceUrl>
     <packageSourceUrl>https://github.com/hoflogic</packageSourceUrl>
-    <!--<iconUrl></iconUrl>-->
+    <iconUrl>https://cdn.rawgit.com/hoflogic/chocolatey-packages/6b60e9e97e4843e428ca1d17f3abb4c331e6a3cb/postgresql/icon.png</iconUrl>
     <licenseUrl>https://www.postgresql.org/about/licence/</licenseUrl>
     <docsUrl>https://www.postgresql.org/docs/9.6/static/index.html</docsUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
